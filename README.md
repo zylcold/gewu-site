@@ -27,7 +27,7 @@
 
 ## 支持
 
-- 使用问题、Bug、功能建议：请开 [Issue](https://github.com/zylcold/gewu/issues)
+- 使用问题、Bug、功能建议：请开 [Issue](https://github.com/zylcold/gewu-site/issues)
 - 邮件：support@gewu.app
 
 ## 隐私

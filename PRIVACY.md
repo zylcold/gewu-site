@@ -65,4 +65,4 @@
 如果您对本隐私政策有任何疑问或建议，请通过以下方式联系我们：
 
 - 电子邮件：privacy@gewu.app
-- 或在本仓库提交 [Issue](https://github.com/zylcold/gewu/issues)
+- 或在本仓库提交 [Issue](https://github.com/zylcold/gewu-site/issues)
